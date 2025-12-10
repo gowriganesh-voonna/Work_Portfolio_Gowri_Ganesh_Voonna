@@ -135,17 +135,42 @@ This system aims to enable users to perform complete shopping workflows through 
 *   Team assignments
 *   Practice modules
 
-### 6. [bank_api](https://github.com/gowriganesh-voonna/bank_api) (Private)
+### 6. [FastAPI Bank API](https://github.com/gowriganesh-voonna/bank_api) (Private)
 
 *   Banking API
 *   CRUD operations
 *   Transactions & user management
 
-### 7. [flask_employee_api](https://github.com/gowriganesh-voonna/flask_employee_api) (Private)
+### 7. [Flask Employee API](https://github.com/gowriganesh-voonna/flask_employee_api) (Private)
 
 *   Employee management system
 *   REST APIs in Flask
 *   Authentication + CRUD
+### 8. [Library_Management_FastAPI](https://github.com/gowriganesh-voonna/Agentic_AI/tree/main/library_mangement_fast_api)
+
+**Tech Stack:**  
+FastAPI, Python, JSON File Storage
+
+**Features:**
+
+*   **Complete CRUD operations** for Books  
+    * Add, update, delete books  
+    * Search by title, author, or genre  
+    * View all books with available stock  
+
+*   **Complete CRUD operations** for Students  
+    * Add, update, delete students  
+    * Search by student_id or name  
+    * View all registered students  
+
+*   **Book Issue & Return System**  
+    * Issue books to students (availability check)  
+    * Return books with stock update  
+
+*   **Reporting**  
+    * Generate book reports: issued vs available  
+    * Generate student-wise issued book reports  
+
 
 ---
 
@@ -182,6 +207,7 @@ This system aims to enable users to perform complete shopping workflows through 
 | `flask_employee_api`         | [Link](https://github.com/gowriganesh-voonna/flask_employee_api)                            |
 | `Gemini`                     | [Link](https://github.com/gowriganesh-voonna/Agentic_AI/tree/main/google_gemini)   |
 | `GPT_News_Processor`                        | [Link](https://github.com/gowriganesh-voonna/Agentic_AI/tree/main/gpt4_news_processor)  |
+| `Library Mangement FastAPI`  | [Link](https://github.com/gowriganesh-voonna/Agentic_AI/tree/main/library_mangement_fast_api)          |
 
 *(Private repository links can be shared on request.)*
 
